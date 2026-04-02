@@ -1,0 +1,8 @@
+pandas
+opencv-python
+numpy
+pytesseract
+pdf2image
+python-dotenv
+google-genai
+openpyxl
